@@ -15,7 +15,7 @@ I'm a Full-Stack developer who likes to work with Typescript/Angular (and Java, 
 
 <div align="center">
     <img width=""
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmarcante&layout=compact&hide_title=1&card_width=300"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmarcante&layout=compact&hide_title=1&card_width=600"
         alt="Top language used in my GitHub public repos" />
     <br />
     <small>Languages used in my public repos - big fan of JavaScript</small>
