@@ -18,7 +18,7 @@ I'm a Full-Stack developer who likes to work with Typescript/Angular (and Java, 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmarcante&hide_title=1&card_width=600&card_heigth=500"
         alt="Top language used in my GitHub public repos" />
     <br />
-    <small>Languages used in my public repos - big fan of JavaScript</small>
+    <small>Languages used in my public repos</small>
     <br />
     <br />
 </div>
